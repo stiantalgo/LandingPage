@@ -15,6 +15,8 @@ html{
 }
 
 #header{
+    padding-left: 120px;
+    padding-right: 190px;
     padding-top: 15px;
     background-color: #1F2937;
     height: 120px;
@@ -35,6 +37,12 @@ html{
     max-width: 300px;
     margin-left: 150px;
     margin-right: 200px;
+}
+
+#topLeft h1{
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
 }
 
 #topLeft p{
@@ -180,13 +188,11 @@ html{
 a{
     color: #E5E7EB;
     text-decoration: none;
-    
+    font-size: 18px;    
 }
 
-#top h1{
-    font-size: 48px;
-    font-weight: 900;
-    color: #F9FAF8;
+#headerLogo li{
+    padding-right: 80px;
 }
 
 
